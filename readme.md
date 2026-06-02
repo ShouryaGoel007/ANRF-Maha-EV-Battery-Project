@@ -138,5 +138,3 @@ This project is released under the **MIT License** (see `LICENSE`). We encourage
 - *Applied PyBaMM and deep learning (LSTM) to achieve <X% SOH prediction error (illustrative).* 
 - *Authored reproducible research code (Python, Pandas, scikit-learn) and published open-source notebooks.*
 
-Each bullet succinctly captures a key achievement (mentioning frameworks, metrics, and context) to showcase impact for recruiters or academic CVs.
-
